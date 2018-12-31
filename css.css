@@ -1,0 +1,124 @@
+.you{
+color:#0000FF;
+font-size:40px;
+}
+.list{
+color:#0000FF;
+text-decoration:none;
+}
+.list : ul li a {
+text-decoration:none;
+padding:0px;
+}
+.row h2  {
+color:#0000CC;
+}
+.row ul li{
+color:#000099;
+}
+
+
+.nav li a{
+  
+  list-style:none;
+    color: blue;
+}
+    
+.container h1{
+color:#0000FF;
+}	
+	
+
+
+
+.img{
+
+                 border-radius: 48%;
+           }
+
+.footer{
+padding:35px;
+background-color:#333333;
+
+    border-top: solid 1px block;
+   
+
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+   
+}
+
+#facebook {
+  background: #3B5998;
+  color: white;
+}
+#twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  
+  
+  #linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  #youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  #instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+  font-size: 30px;
+  
+  
+  
+  border-radius: 60%;
+}
+  
+  .aa{
+
+    border-top:solid 1px black;border-bottom:solid 1px black;border-left:solid 1px black;border-right:solid 1px black
+  }
+
+  .contact-form{
+    background-color:#000000;
+    margin-left: 40%;
+    margin-right: 40%;
+    background: transparent;
+}
+.contact-form input[type="text"]{
+    border: none;
+    border-bottom: 1px solid blue;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color:blue;
+    font-size: 16px;
+}
+.contact-form label,
+.contact-forminput{
+    display: block;
+    padding: 10px;
+    font-weight: bold;
+    color:blue;
+    
+}
+form .input { width: 250px;
+    border-radius: 5px;
+}
